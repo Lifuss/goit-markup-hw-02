@@ -130,6 +130,9 @@ body {
 .team-cards-list {
   background-color: var(--color-on-blue-theme);
 }
+.team-cards-list-item {
+  background-color: var(--color-on-blue-theme);
+}
 .team-cards-name {
   font-weight: 500;
   font-size: 20px;
